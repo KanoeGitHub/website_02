@@ -66,10 +66,10 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Kanoeroom
-        href: http://blog.kanoe.studio/
+      - name: 秒速3オクターブ
+        href: https://blog.kanoe.studio/
         title: Another Jekyll blog theme
-      - name: author's website
+      - name: Kanoe Studio
         href: https://KanoeStudio
         title: Kanoe Studio
 
