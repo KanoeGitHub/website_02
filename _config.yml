@@ -12,9 +12,9 @@ locale: ja_JP
 ### Personal info and site tools info:
 twitter_username: KanoeTweet
 github_username:  KanoeGitHub
-disqus_shortname: 
+disqus_shortname: blog-kanoe-studio
 favicon:     "/images/favicon.ico"
-aboutme: Hello  # these are shown on aboutme-sidebar.
+aboutme: "Hello, I'm Kanoe"  # these are shown on aboutme-sidebar.
 aboutme_photo: https://s3-ap-northeast-1.amazonaws.com/creofuga3/images/artworks/155331/default.155331.png?1542977316# your photo.
 google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
 
