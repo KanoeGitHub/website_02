@@ -1,12 +1,12 @@
 ### Site info:
-title: KANOE ROOM
+title: 秒速3オクターブ
 tagline: 
 author: Kanoe
 email: kanoe@sampele.jp
-description: "色々と書きます"
+description: "音楽したりプログラミングしたり..."
 keywords: "DTM, Mac, プログラミング, ゲーム, 音楽"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://kanoegithub.github.io/website_02/" # the base hostname & protocol for your site
+url: "http://blog.kanoe.studio/" # the base hostname & protocol for your site
 locale: ja_JP
 
 ### Personal info and site tools info:
@@ -67,7 +67,7 @@ locales:
 
 Blogroll:
       - name: Kanoeroom
-        href: https://kanoegithub.github.io/website_02/
+        href: http://blog.kanoe.studio/
         title: Another Jekyll blog theme
       - name: author's website
         href: https://KanoeStudio
