@@ -6,7 +6,7 @@ email: kanoe@sampele.jp
 description: "色々と書きます"
 keywords: "DTM, Mac, プログラミング, ゲーム, 音楽"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://kanoegithub.github.io/MyWebsiteII.github.io/" # the base hostname & protocol for your site
+url: "https://kanoegithub.github.io/website_02/" # the base hostname & protocol for your site
 locale: ja_JP
 
 ### Personal info and site tools info:
@@ -67,7 +67,7 @@ locales:
 
 Blogroll:
       - name: Kanoeroom
-        href: https://kanoegithub.github.io/MyWebsiteII.github.io/
+        href: https://kanoegithub.github.io/website_02/
         title: Another Jekyll blog theme
       - name: author's website
         href: https://KanoeStudio
