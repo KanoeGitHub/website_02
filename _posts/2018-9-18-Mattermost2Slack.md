@@ -6,8 +6,6 @@ author: Kanoe
 categories: プログラミング
 tags:
 - GAS
-- Matrtermost
-- Slack
 
 ---
 

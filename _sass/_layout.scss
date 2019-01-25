@@ -19,7 +19,7 @@
     &:visited
     &:hover {
       color: $brand-top-color; //$grey-color-dark
-      border-bottom: 1px dotted;
+      border-bottom: 1px hidden;
       text-decoration: none;
     }
   }

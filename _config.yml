@@ -2,7 +2,7 @@
 title: Kanoe Lounge
 tagline: 音楽したりプログラミングしたり...
 author: Kanoe
-email: kanoe@sampele.jp
+email: 
 description: "音楽したりプログラミングしたり..."
 keywords: "DTM, Mac, プログラミング, ゲーム, 音楽"
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -60,7 +60,7 @@ locales:
       Home: "ホーム"
       About: "About"
       Guestbook: "メッセージ"
-      Subscribe: "購読"
+      Subscribe: "Subscribe"
 
 
 ### your Blogroll info, only name can shown on the page.
