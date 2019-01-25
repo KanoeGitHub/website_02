@@ -1,6 +1,6 @@
 ### Site info:
-title: 秒速3オクターブ
-tagline: 
+title: Kanoe Lounge
+tagline: 音楽したりプログラミングしたり...
 author: Kanoe
 email: kanoe@sampele.jp
 description: "音楽したりプログラミングしたり..."
@@ -66,11 +66,11 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: 秒速3オクターブ
+      - name: Kanoe Lounge
         href: https://blog.kanoe.studio/
-        title: Another Jekyll blog theme
+        title: Kanoe Lounge
       - name: Kanoe Studio
-        href: https://KanoeStudio
+        href: https://kanoe.studio
         title: Kanoe Studio
 
 
