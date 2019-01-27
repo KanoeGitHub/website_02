@@ -16,7 +16,7 @@ disqus_shortname: blog-kanoe-studio
 favicon:     "/images/favicon.ico"
 aboutme: "Hello, I'm Kanoe"  # these are shown on aboutme-sidebar.
 aboutme_photo: https://s3-ap-northeast-1.amazonaws.com/creofuga3/images/artworks/155331/default.155331.png?1542977316# your photo.
-google_analytics_key: UA-133222038-1# put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-133222038-1
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
