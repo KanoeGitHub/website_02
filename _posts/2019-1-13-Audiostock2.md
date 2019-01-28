@@ -20,7 +20,7 @@ Audiostockってご存知ですか？
 <iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Faudiostock.jp%2F" title="著作権フリーの音源・音楽素材なら11万点から選べるAudiostock(オーディオストック)" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://audiostock.jp/">audiostock.jp</a></cite>
 <!-- more -->
 <br>
-# メリット その1 ~音源登録には審査がある~
+## メリット その1 ~音源登録には審査がある~
 Audiostockに音源を登録するには審査が必要となります。<br>
 要するに商品としての一定以上のクオリティが必要ということです。<br>
 なぜこのシステムがメリットかというと、単純に...
@@ -33,7 +33,7 @@ Audiostockに音源を登録するには審査が必要となります。<br>
 ちなみに不採用だと理由が記載されたメールが届きます。（画像は実際のメールのスクショ）
 ![002](https://lh3.googleusercontent.com/l-UMbDIEA13rwYUo6AfZhytcdNc1jgDCcC9JoTn5a9qWn5wKL64irnEDBwAU0Y81dKJaCSenz3sGH6Fy_VUWaGoeggv1Zyh0JJZolm-aZs_pAzScpLdPgwAwSIMJtgfGUS1we079G1IvVoe1PAKov0Vm31rvl1Z1E3kY1UzfzXrRcoJviA5QANpS-L-M4vVE1CICqnG_M0QBsstKgmdZetGt3dPr3V57OepWKHCD5m50mWnq8eDarD4bA6SXyTJRHAKyo43lxYK6KuXwewPl6W1t9wcj-IqoatjnaUVSArudhel576sridzflLFgJLcX_2u8Qtv4XBvc0N0_LNhvumDb2uN0BHjZ-VNgynpCAPDkmndJAiqrDMRHDfQdQ6f-iavtm6PYRkHShhRb4F_VCn0ZJMFwE3xj6mN0zNzDsfI_Q6OwMxqlqFHCIoM67DNLwX1HVhHz0iHfM_BW3H_nwDSNszXC2NByGLUe3bknZBNS-rsjaOZvRW8zIvTSjma8BNSza24TYYXeO4atVovJ8-kgPY83BlCBvhaIUBNFNuSiFtPjPovr9qBFvbbp2ycXkREB1YZPqT0EiZ0D_rkcTV2Cff6yN1HrzEwPf8GPD1-m8dV026PoyqM28K4ZI1L65IfTOXTORaMX1C5iDHh-Oi8U=w680-h94-no)
 <br><br>
-# メリット その2 ~売れたらテンションが上がる~
+## メリット その2 ~売れたらテンションが上がる~
 前項が目的で始めたので売れる事を期待していなかった僕ですが、それでも初めて売れた時はかなり嬉しかったです。<br>
 
 音源の値段はジャンルによってある程度選択肢が決められています。
@@ -50,7 +50,7 @@ Audiostockに音源を登録するには審査が必要となります。<br>
 このような感覚が味わえることもAudiostockのメリットだと思います。<br>
 <span style="font-size: 80%">（ちなみに1000円で売れても運営が約60%手数料とるので実際は約40%しか売り上げは入りません）</span>
 <br><br>
-# メリット その3 ~Kyashで500円から利用可能~
+## メリット その3 ~Kyashで500円から利用可能~
 最近始まった、売り上げが少ない僕みたいな初心者にはかなり嬉しいシステムです。<br>
 Kyashという電子決済サービスがあるのですが、Kyashで作られるVISAデビットカードは最近話題になったPayPayに支払い方法として追加できます。<br>
 つまり売り上げが少額でもすぐに実生活で使えるようになります。
@@ -59,7 +59,7 @@ Kyashの公式ホームページ : [https://kyash.co/:title] <br>
 PayPayの公式ホームページ : [https://www.paypay-corp.co.jp/:title]<br>
 
 <br>
-#まとめ
+## まとめ
 いかがでしょうか？Audiostockには玄人やプロの方が幅を効かせているため収益を上げると行った面では不利な部分はありますが、稼ぐ目的に目をつむれば素人でも活用できる点はあるので個人的にはオススメです。（<span style="color: #0000cc"><b>特に審査システムは本当にいいと思います。</b></span>）<br>
 <br>
 <br>
