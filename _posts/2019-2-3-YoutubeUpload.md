@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: PS4のキャプチャー（録画）動画をYoutubeに高画質でアップロードする方法(アップコンバートのメリット)
+title: PS4のキャプチャー(録画)動画をYoutubeに高画質でアップロードする方法(アップコンバートのメリット)
 author: Kanoe
 categories: 雑記
 tags:
