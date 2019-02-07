@@ -31,7 +31,10 @@ tags:
 ここで決済するクレジットカードを選択して、進むと注文完了となります。<br>
 多分Paypalに登録していない方は、その際に新規登録ができると思います。<br><br>
 
-# まとめ
+## まとめ
 ついにサウンドハウスでJCBカードが使える！<br>
 この日を待ち望んでいた方はきっと少なくないはず。<br>
 今こそ購買欲を満たす時です！（笑）
+<br>
+<br>
+<a href="https://h.accesstrade.net/sp/cc?rk=01000fty00imz8" rel="nofollow" target="_blank">サウンドハウス<img src="https://h.accesstrade.net/sp/rr?rk=01000fty00imz8" width="1" height="1" border="0" alt="" /></a>
