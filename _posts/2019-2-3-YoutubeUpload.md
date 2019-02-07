@@ -30,13 +30,13 @@ tags:
 <br>
 
 それが以下の動画<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MQ3oxc4yt4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MQ3oxc4yt4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 確かに普通のPS4の720pよりは綺麗に写っていますが、実際アップロード前の1080pの動画より画質が落ちています。<br>
 <br>
 そこでなんとなく「4Kにしちゃえ！」ってことで、FCPXのプロジェクトの設定を1080pから4Kに変えてアップロードしてみました。<br>
 それが以下の動画<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjx_u1-EzOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jjx_u1-EzOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 1080pで見ると前の動画と相変わらず、画質は悪いままですが一つ上の1440pでみて見ると明らかに画質が上がっていると思います。<br>
 <br>
