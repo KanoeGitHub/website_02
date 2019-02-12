@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: ヘッドホンかモニタースピーカーか
+title: 低域は聞こえるかい？
 author: Kanoe
 categories: DTM
 tags:
@@ -39,16 +39,22 @@ DTMをやっている方、これからやろうという方もモニター環�
 
 |スピーカー名|再生可能周波数|
 |---|---|
+|YAMAHA HS5|54Hz - 30kHz|
 |YAMAHA MSP5 Studio|50 Hz - 40 kHz|
 |YAMAHA MSP7 Studio|45 Hz - 40 kHz|
+|YAMAHA HS7|43Hz - 30kHz|
+|YAMAHA HS8|38Hz - 30kHz|
 |ADAM AUDIO A5X|50 Hz - 50 kHz|
 |ADAM AUDIO A7X|42Hz - 50kHz|
 |EVE Audio SC204|64Hz - 21kH|
 |iLoud Micro Monitor|45Hz - 22kHz|
+|FOSTEX PM0.5dB|55Hz - 30kHz|
 |GENELEC 8010AP|74Hz - 20kHz|
+|TANNOY Reveal 502 Pair|49 - 43kHz|
+|EVENT OPAL Pair|35Hz - 22kHz|
 
 <br>
-とまぁこんな感じですが、30Hzまで届くようなものはないですね。<br>
+とまぁこんな感じですが、30Hz近くまで届くようなものは少ないですね。<br>
 もともと50Hzより下あたりはサブウーファーの役割だと思っているので想定内です。<br>
 
 <br><br>
