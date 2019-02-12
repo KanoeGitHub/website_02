@@ -50,7 +50,7 @@ DTMをやっている方、これからやろうという方もモニター環�
 |iLoud Micro Monitor|45Hz - 22kHz|
 |FOSTEX PM0.5dB|55Hz - 30kHz|
 |GENELEC 8010AP|74Hz - 20kHz|
-|TANNOY Reveal 502 Pair|49 - 43kHz|
+|TANNOY Reveal 502 Pair|49Hz - 43kHz|
 |EVENT OPAL Pair|35Hz - 22kHz|
 
 <br>
