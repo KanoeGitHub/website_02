@@ -40,11 +40,11 @@ DTMをやっている方、これからやろうという方もモニター環�
 |スピーカー名|再生可能周波数|
 |---|---|
 |YAMAHA HS5|54Hz - 30kHz|
-|YAMAHA MSP5 Studio|50 Hz - 40 kHz|
-|YAMAHA MSP7 Studio|45 Hz - 40 kHz|
+|YAMAHA MSP5 Studio|50Hz - 40kHz|
+|YAMAHA MSP7 Studio|45Hz - 40kHz|
 |YAMAHA HS7|43Hz - 30kHz|
 |YAMAHA HS8|38Hz - 30kHz|
-|ADAM AUDIO A5X|50 Hz - 50 kHz|
+|ADAM AUDIO A5X|50Hz - 50kHz|
 |ADAM AUDIO A7X|42Hz - 50kHz|
 |EVE Audio SC204|64Hz - 21kH|
 |iLoud Micro Monitor|45Hz - 22kHz|
@@ -66,7 +66,7 @@ DTMをやっている方、これからやろうという方もモニター環�
 |[FOSTEX PM-SUB8](https://h.accesstrade.net/sp/cc?rk=01001xqc00imz8&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F239039%2F)|30Hz - 250Hz|¥33,804|
 |[PRESONUS Temblor T8](https://h.accesstrade.net/sp/cc?rk=01001xqc00imz8&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F201238%2F)|30Hz - 300Hz|¥39,420|
 |[YAMAHA HS8S](https://h.accesstrade.net/sp/cc?rk=01001xqc00imz8&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F184220%2F)|22Hz - 160Hz|¥42,984|
-|[JBL LSR310S](https://h.accesstrade.net/sp/cc?rk=01001xqc00imz8&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F205513%2F)|27Hz - 120|¥46,224|
+|[JBL LSR310S](https://h.accesstrade.net/sp/cc?rk=01001xqc00imz8&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F205513%2F)|27Hz - 120Hz|¥46,224|
 |[ADAM AUDIO SUB10 MarkII](https://h.accesstrade.net/sp/cc?rk=01001xqc00imz8&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F15161%2F)|25Hz - 150Hz|¥135,864|
 
 <br><br>
